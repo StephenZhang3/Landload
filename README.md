@@ -1,2 +1,6 @@
 # Landload
-Java program; homework in my university.
+
+一个Java程序，JDK版本：1.8.0_251。
+
+按照斗地主游戏规则，随机发牌，三位玩家每人17张扑克牌并剩下三张底牌。
+扑克牌按斗地主规则顺序排列。
